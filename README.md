@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siraj0019&show_icons=true&locale=en" alt="siraj0019" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siraj0019&" alt="siraj0019" /></p>
+
+Credeit for this Readme file goes to <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="blank"></a>
