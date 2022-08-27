@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://www.sirajurrahman.com/](https://www.sirajurrahman.com/)
+- 👨‍💻 All of my projects are available [https://www.sirajurrahman.com/](here)
 
 - 💬 Ask me about **.Net, Node Js, Asp.Net Core, Microservices**
 
