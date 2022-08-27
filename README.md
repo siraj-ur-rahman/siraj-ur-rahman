@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available [https://www.sirajurrahman.com/](here)
+- 👨‍💻 All of my projects are available [here](https://www.sirajurrahman.com/)
 
 - 💬 Ask me about **.Net, Node Js, Asp.Net Core, Microservices**
 
 - 📫 How to reach me **me@sirajurrahman.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1jP2PIbZPLOXBDx_kEuM_KysQG7Xdg17K/](https://docs.google.com/document/d/1jP2PIbZPLOXBDx_kEuM_KysQG7Xdg17K/)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1jP2PIbZPLOXBDx_kEuM_KysQG7Xdg17K/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siraj-ur-rahman&" alt="siraj-ur-rahman" /></p>
 
-Credeit for this Readme file goes to <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="blank" alt=""></a>
+Credeit for this Readme file goes to [rahuldkjain]([https://www.sirajurrahman.com/](https://rahuldkjain.github.io/gh-profile-readme-generator/))
