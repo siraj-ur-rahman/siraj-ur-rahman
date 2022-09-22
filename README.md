@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siraj-ur-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="siraj-ur-rahman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraj-ur-rahman" alt="siraj_urrahman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraj-ur-rahman" alt="siraj-ur-rahman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/siraj_urrahman" target="blank"><img src="https://img.shields.io/twitter/follow/siraj0019?logo=twitter&style=for-the-badge" alt="siraj_urrahman" /></a> </p>
+<p align="left"> <a href="https://twitter.com/siraj_urrahman" target="blank"><img src="https://img.shields.io/twitter/follow/siraj_urrahman?logo=twitter&style=for-the-badge" alt="siraj_urrahman" /></a> </p>
 
 - 🔭 I’m currently working on **Engage**
 
