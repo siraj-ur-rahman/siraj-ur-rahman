@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Siraj,</h1>
 <h3 align="center">Building a successful product is a challenge. I am highly energetic in software development, software designing and web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siraj0019&label=Profile%20views&color=0e75b6&style=flat" alt="siraj0019" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siraj-ur-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="siraj-ur-rahman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraj0019" alt="siraj0019" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraj-ur-rahman" alt="siraj_urrahman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/siraj0019" target="blank"><img src="https://img.shields.io/twitter/follow/siraj0019?logo=twitter&style=for-the-badge" alt="siraj0019" /></a> </p>
+<p align="left"> <a href="https://twitter.com/siraj_urrahman" target="blank"><img src="https://img.shields.io/twitter/follow/siraj0019?logo=twitter&style=for-the-badge" alt="siraj_urrahman" /></a> </p>
 
 - 🔭 I’m currently working on **Engage**
 
